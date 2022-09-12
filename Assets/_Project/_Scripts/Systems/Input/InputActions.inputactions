@@ -7,7 +7,7 @@
             "actions": [
                 {
                     "name": "Shoot",
-                    "type": "PassThrough",
+                    "type": "Button",
                     "id": "00d06104-a528-42da-bf97-621969f790b5",
                     "expectedControlType": "Button",
                     "processors": "",
